@@ -1,2 +1,2 @@
-# stock-analysis
+# Challenge
 Stock analysis using VBA
